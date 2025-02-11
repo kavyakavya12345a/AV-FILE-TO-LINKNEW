@@ -9,9 +9,9 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 SESSION = environ.get('SESSION', 'Webavbot')
-API_ID = int(environ.get('API_ID', '12345678'))
-API_HASH = environ.get('API_HASH', '812529feb49f578FHB5d1')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7091568:AAGpX2rVUnDHCYV-96GJVUV")
+API_ID = int(environ.get('API_ID', '28200856'))
+API_HASH = environ.get('API_HASH', '30e0567e3c97b0ea8e8d3fe50b2c2442')
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 BOT_USERNAME = environ.get("BOT_USERNAME", 'AV_F2L_BOT') # without @ 
 
 # Admins, Channels & Users
