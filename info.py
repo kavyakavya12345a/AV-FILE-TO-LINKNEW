@@ -42,7 +42,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "godsuraj564")
 
 # fsub  information
 AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/AwV.jpg')              
-AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-100"))
+AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002492269898"))
 FSUB = environ.get("FSUB", True)
 
 # port information
