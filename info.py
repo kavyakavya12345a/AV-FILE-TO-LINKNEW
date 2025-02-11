@@ -12,13 +12,13 @@ SESSION = environ.get('SESSION', 'Webavbot')
 API_ID = int(environ.get('API_ID', '28200856'))
 API_HASH = environ.get('API_HASH', '30e0567e3c97b0ea8e8d3fe50b2c2442')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
-BOT_USERNAME = environ.get("BOT_USERNAME", 'AV_F2L_BOT') # without @ 
+BOT_USERNAME = environ.get("BOT_USERNAME", 'Djdjfjefjbot') # without @ 
 
 # Admins, Channels & Users
 BIN_CHANNEL = int(environ.get("BIN_CHANNEL", '-1002452252377')) # admin your channel in stream 
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", '-1002489352547')) # admin your channel in users log 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5977931010').split()] # 3567788, 678899, 5889467
-OWNER_USERNAME = environ.get("OWNER_USERNAME", 'BOT_OWNER26') # without @ 
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7154442141').split()] # 3567788, 678899, 5889467
+OWNER_USERNAME = environ.get("OWNER_USERNAME", 'HELLOW_BOB) # without @ 
 
 # pics information
 PICS = environ.get('PICS', 'https://envs.sh/b6H.jpg')
