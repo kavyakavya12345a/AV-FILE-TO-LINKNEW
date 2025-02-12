@@ -71,9 +71,9 @@ else:
 FQDN = str(getenv('FQDN', 'BIND_ADRESS:PORT')) if not ON_HEROKU or getenv('FQDN', '') else APP_NAME+'.herokuapp.com'
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://{}/".format(FQDN)
+    URL = "https://environmental-goldia-kavhenfwnfbw-a924b22b.koyeb.app/".format(FQDN)
 else:
-    URL = "https://{}/".format(FQDN)
+    URL = "https://environmental-goldia-kavhenfwnfbw-a924b22b.koyeb.app/".format(FQDN)
       
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
