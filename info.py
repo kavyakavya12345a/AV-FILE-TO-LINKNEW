@@ -15,8 +15,8 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 BOT_USERNAME = environ.get("BOT_USERNAME", 'Fbsjfkeekbot') # without @ 
 
 # Admins, Channels & Users
-BIN_CHANNEL = int(environ.get("BIN_CHANNEL", '-1002443884803')) # admin your channel in stream 
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", '-1002412864959')) # admin your channel in users log 
+BIN_CHANNEL = int(environ.get("BIN_CHANNEL", '-1002317605736')) # admin your channel in stream 
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", '-1002298463307')) # admin your channel in users log 
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5694158462').split()] # 3567788, 678899, 5889467
 OWNER_USERNAME = environ.get("OWNER_USERNAME", 'mox_by_mox') # without @ 
 
@@ -42,7 +42,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "godsuraj564")
 
 # fsub  information
 AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/AwV.jpg')              
-AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002492269898"))
+AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002487923514"))
 FSUB = environ.get("FSUB", True)
 
 # port information
