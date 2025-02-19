@@ -21,7 +21,7 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 OWNER_USERNAME = environ.get("OWNER_USERNAME", 'mox_by_mox') # without @ 
 
 # pics information
-PICS = environ.get('PICS', 'https://envs.sh/b6H.jpg')
+PICS = environ.get('PICS', 'https://envs.sh/hCF.jpg')
 
 # channel link information
 CHANNEL = environ.get('CHANNEL', 'https://t.me/')
@@ -41,7 +41,7 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://godsuraj564:Rb9HKktUHI
 DATABASE_NAME = environ.get('DATABASE_NAME', "godsuraj564")
 
 # fsub  information
-AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/AwV.jpg')              
+AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/hCF.jpg')              
 AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002487923514"))
 FSUB = environ.get("FSUB", True)
 
