@@ -41,7 +41,7 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://godsuraj564:Rb9HKktUHI
 DATABASE_NAME = environ.get('DATABASE_NAME', "godsuraj564")
 
 # fsub  information
-AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/hCF.jpg')              
+AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/0RN.jpg')              
 AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002487923514"))
 FSUB = environ.get("FSUB", True)
 
