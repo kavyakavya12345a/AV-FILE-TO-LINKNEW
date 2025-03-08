@@ -70,9 +70,9 @@ Nᴀᴍᴇ - {}"""
     ABOUT_TXT = """<b>╔════❰ {} ❱═══════❍
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kvupdateby'>ᴀᴠ ᴄʜᴀᴛ ᴏᴡɴᴇʀ</a>
-║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/kvupdateby>ᴀᴠ ʙᴏᴛᴢ</a>
-║┣⪼💻sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/kvupdateby>ʀᴇᴘᴏ</a>
+║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Gxchatowner29bot'>ᴀᴠ ᴄʜᴀᴛ ᴏᴡɴᴇʀ</a>
+║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/gxupdatechhnals>ᴀᴠ ʙᴏᴛᴢ</a>
+║┣⪼💻sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/gxupdatechhnals>ʀᴇᴘᴏ</a>
 ║┣⪼⏲️ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ 
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
