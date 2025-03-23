@@ -24,8 +24,8 @@ OWNER_USERNAME = environ.get("OWNER_USERNAME", 'mox_by_mox') # without @
 PICS = environ.get('PICS', 'https://envs.sh/dFO.jpg')
 
 # channel link information
-CHANNEL = environ.get('CHANNEL', 'https://t.me/gxupdatechhnals')
-SUPPORT = environ.get('SUPPORT', 'http://t.me/gxupdatechhnals')
+CHANNEL = environ.get('CHANNEL', 'https://t.me/es_update')
+SUPPORT = environ.get('SUPPORT', 'http://t.me/es_update')
 
 #Dont Remove My Credit @AV_BOTz_UPDATE 
 #This Repo Is By @BOT_OWNER26 
