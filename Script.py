@@ -54,8 +54,8 @@ Cʜᴀɴɴᴇʟ Uꜱᴀɢᴇ:
 🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.
 
 📮 Hᴇʟᴘ & Sᴜᴘᴘᴏʀᴛ:
-• Uᴘᴅᴀᴛᴇꜱ: @gxupdatechhnals
-• Sᴜᴘᴘᴏʀᴛ: @gxupdatechhnals
+• Uᴘᴅᴀᴛᴇꜱ: @es_update
+• Sᴜᴘᴘᴏʀᴛ: @es_update
 
  <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/kvupdateby'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
 
